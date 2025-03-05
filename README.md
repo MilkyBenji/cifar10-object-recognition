@@ -32,7 +32,7 @@
 
 ## **Video Demo**  
 
-*(Insert a link to a video demo or GIF showcasing the project in action.)*  
+https://github.com/user-attachments/assets/3a63e194-d76f-41c0-8977-5534ca42b66f
 
 ---
 
