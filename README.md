@@ -1,6 +1,6 @@
-# **MyObjectRecognition**  
+# **cifar10-object-recognition**  
 
-**MyObjectRecognition** is a deep learning-based object recognition system that leverages multiple neural network architectures, including **AlexNet, GoogleNet, InceptionV3, LeNet-5, and VGGNet**. The goal is to train, fine-tune, and evaluate models to achieve optimal accuracy before deploying the best-performing model into an **Android Studio application** using **TensorFlow Lite**.  
+**cifar10-object-recognition** is a deep learning-based object recognition system that leverages multiple neural network architectures, including **AlexNet, GoogleNet, InceptionV3, LeNet-5, and VGGNet**. The goal is to train, fine-tune, and evaluate models to achieve optimal accuracy before deploying the best-performing model into an **Android Studio application** using **TensorFlow Lite**.  
 
 ---
 
